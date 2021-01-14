@@ -4,7 +4,7 @@ A new Flutter project.
 
 Screenshot 
 
-![alt text](https://github.com/Rihaan369/mic-with-loud/blob/master/images/screenshot.jpg?raw=true)
+![alt text](https://github.com/nasirulahmed369/Mic-with-loud/blob/master/images/screenshot.jpg?raw=true)
 
 ## Getting Started
 
