@@ -2,14 +2,16 @@
 
 A new Flutter project.
 
+whenever a meanting is organized then we need an externel microphone to communicate. So if you own a phone then you don't have to worry. since we have mic with loud app.
+
+In this project I used flutter soundstream package, Thanks to flutter team.
+
 Screenshot 
 
 ![alt text](https://github.com/nasirulahmed369/Mic-with-loud/blob/master/images/screenshot.jpg?raw=true)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
+If you want lear more about flutter then click the link below.
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
