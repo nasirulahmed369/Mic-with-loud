@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Screenshot 
+
+![alt text](https://github.com/Rihaan369/mic-with-loud/blob/master/images/screenshot.jpg?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
