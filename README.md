@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-whenever a meanting is organized then we need an externel microphone to communicate. So if you own a phone then you don't have to worry. since we have mic with loud app.
+whenever a meating is organized then we need an externel microphone to communicate. So if you own a phone then you don't have to worry. since we have mic with loud app.
 
 In this project I used flutter soundstream package, Thanks to flutter team.
 
